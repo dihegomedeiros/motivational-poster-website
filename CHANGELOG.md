@@ -2,7 +2,7 @@
 
 Todas as mudanças relevantes deste projeto serão documentadas neste arquivo.
 
-## [1.0.0] - 2026-06-16
+## [0.1.0] - 2026-06-16
 
 ### Added
 
@@ -10,3 +10,15 @@ Todas as mudanças relevantes deste projeto serão documentadas neste arquivo.
 - Página HTML com boilerplate
 - Conteúdo inicial de teste estilizado
 - README inicial
+
+## [1.0.0] - 2026-06-17
+
+### Added
+
+- Pôster motivacional estático
+- Estilos CSS
+- Imagem jpg
+
+### Removed
+
+- Conteúdo inicial de teste estilizado
